@@ -1,0 +1,1 @@
+import{l as n}from"./DY31o6IE.js";import{t as o}from"./CMCTUsV7.js";function r(){const r=n(),{connectAndLogin:t}=o();return{requireHlLogin:function(){return!!r.isConnectLogin||(t(),!1)}}}export{r as t};
