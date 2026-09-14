@@ -1,0 +1,1 @@
+import{Go as i,Kt as o}from"./B_bx1lL4.js";var t=i("position",()=>{const i=o({prefix:"position",defaultFixedWidth:300});return{...i,visible:i.visible,positionBoundingRect:i.boundingRect}});export{t};
