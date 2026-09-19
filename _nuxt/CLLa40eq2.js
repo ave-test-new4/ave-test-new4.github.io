@@ -1,0 +1,1 @@
+import{qt as e,us as i}from"./CHsteywo.js";var t=i("favToken",()=>{const i=e({prefix:"favToken",defaultFixedWidth:300});return{...i,visible:i.visible,favTokenBoundingRect:i.boundingRect}});export{t};
