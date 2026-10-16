@@ -1,0 +1,1 @@
+import{Us as i,an as o}from"./DPMds3AZ.js";var t=i("position",()=>{const i=o({prefix:"position",defaultFixedWidth:300});return{...i,visible:i.visible,positionBoundingRect:i.boundingRect}});export{t};

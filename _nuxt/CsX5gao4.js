@@ -1,0 +1,1 @@
+import{Us as e,an as i}from"./DPMds3AZ.js";var n=e("favToken",()=>{const e=i({prefix:"favToken",defaultFixedWidth:300});return{...e,visible:e.visible,favTokenBoundingRect:e.boundingRect}});export{n as t};
