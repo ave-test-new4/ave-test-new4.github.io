@@ -1,0 +1,1 @@
+import{dt as i}from"./Czr2hC9o.js";import{vn as o}from"./DzP-tVhh.js";var t=i("position",()=>{const i=o({prefix:"position",defaultFixedWidth:300});return{...i,visible:i.visible,positionBoundingRect:i.boundingRect}});export{t};
