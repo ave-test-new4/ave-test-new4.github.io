@@ -1,0 +1,1 @@
+import{G as t,Y as o,q as s,z as a}from"./BXjGkdfr.js";import{Ja as n,Ko as e}from"./BtxArFnI.js";a();var m=0;function c(){const t=document.documentElement.classList,o=m>0;t.contains("theme-home")!==o&&(t.toggle(n,o),e())}function i(){let a=!1;const n=()=>{a||(a=!0,m++,c())},e=()=>{a&&(a=!1,m=Math.max(0,m-1),c())};n(),t(n),o(e),s(e)}export{i as t};
