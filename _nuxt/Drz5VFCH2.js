@@ -1,0 +1,1 @@
+import{t}from"./DbYNonRq.js";var r="device_id";function e(){try{return localStorage.getItem(r)||""}catch{return""}}async function a(){const a=e();if(a)return a;const n=await(await t(()=>import("./D6JkwU-_.js").then(t=>t.default),[],import.meta.url)).load({monitoring:!1}).then(t=>t.get()).then(t=>t.visitorId);try{localStorage.setItem(r,n)}catch{}return n}export{a as n,e as t};
